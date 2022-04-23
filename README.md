@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/0ed48df18f4175d61b5d8.jpg">
+  <img src="https://telegra.ph/file/880eb15cf015a8fffd632.jpg">
 </p>
 
 ## Power
