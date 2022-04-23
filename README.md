@@ -6,7 +6,7 @@
 
 ### Telegram Group
 <p align="left">
-<a href="https://t.me/GabiHelpSupport" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://t.me/PowerHelpSupport" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
 ### Bot And Channel 
 * Bot Link:  <a href="http://t.me/PowerXsuperbot" alt="Power"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Power" /> </a>
