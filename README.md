@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="(https://telegra.ph/file/d81cd704301e4d8f23736.jpg)">
-</p>
+  <img src=(https://telegra.ph/file/d81cd704301e4d8f23736.jpg)> </p>
+
 
 ## Maki
 
