@@ -6,10 +6,10 @@
 
 ### Telegram Group
 <p align="left">
-<a href="https://t.me/PowerHelpSupport" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://t.me/TheKaizuryu" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
 ### Bot And Channel 
-* Bot Link:  <a href="http://t.me/PowerXsuperbot" alt="Power"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Power" /> </a>
+* Bot Link:  <a href="http://t.me/MakixRobot" alt="Power"> <img src="(https://telegra.ph/file/d81cd704301e4d8f23736.jpg)" /> </a>
 * Log Channel: <a  href="https://t.me/Power_Support_Log" alt="Bot Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-Power%20Log%20Channel-9cf" /> </a>
 
 ### Creating your own modules.
@@ -47,22 +47,24 @@ Make sure to edit the start and restart bats to your needs.
 Note: the restart bat requires that User account control be disabled.
 
 For queries or any issues regarding the bot please open an issue ticket or visit us at <p align="left">
-<a href="https://t.me/PowerHelpSupport" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://t.me/MakixZeninsupport" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
 ## How to setup on Heroku 
 For starters click on this button 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Falco-Grice/GabiBraunRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Hayakawa-kun/Powerxobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ## Our Telegram Channel and Group
 
-* [Support](https://telegram.dog/PowerHelpSupport)
-* [Discussion](https://telegram.dog/helpcenterbot1)
-* [Second Group](https://telegram.dog/Anime_chat_english)
+* [Support](https://telegram.dog/MakixZeninsupport)
+* [Discussion](https://telegram.dog/Anime_Chat_xkaizuryu)
+* [Second Group](https://telegram.dog/TheKaizuryu)
 
 ## Credits,  
-*   [Sung Jin Woo](https://telegram.dog/HeavenlySageX)
+*   [Aizen] 
+*   
+(https://telegram.dog/AlecFreon)
 
 ## Bot Owner
-*  [Hayakawa](https://telegram.dog/Aki00x)
+*  [Hayakawa](https://telegram.dog/AlecFreon)
