@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/file/880eb15cf015a8fffd632.jpg">
+  <img src="(https://telegra.ph/file/d81cd704301e4d8f23736.jpg)">
 </p>
 
-## Power
+## Maki
 
 ### Telegram Group
 <p align="left">
@@ -10,7 +10,7 @@
 
 ### Bot And Channel 
 * Bot Link:  <a href="http://t.me/MakixRobot" alt="Power"> <img src="(https://telegra.ph/file/d81cd704301e4d8f23736.jpg)" /> </a>
-* Log Channel: <a  href="https://t.me/Power_Support_Log" alt="Bot Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-Power%20Log%20Channel-9cf" /> </a>
+* Log Channel: <a  href="https://t.me/Maki_Zenin_logs" alt="Bot Logs"> <img  src="(https://telegra.ph/file/d81cd704301e4d8f23736.jpg)" /> </a>
 
 ### Creating your own modules.
 
